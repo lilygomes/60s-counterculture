@@ -7,7 +7,7 @@
 			<!--the 60s-->
         </a>
       </h1>
-      <p class="lead vertical">
+      <p class="lead">
 	  	counterculture movement
 	  </p>
     </div>
@@ -21,7 +21,9 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
+	  <!-- Sort posts -->
+	  {% assign sorted_pages = site.pages | sort:"sort" %}
+      {% for node in sorted_pages %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
@@ -34,6 +36,6 @@
       <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p id="copyright">Copyleft {{ site.time | date: '%Y' }}. No rights reserved.</p>
   </div>
 </div>

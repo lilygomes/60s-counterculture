@@ -1,7 +1,10 @@
 ---
 layout: page
+sort: 5
 title: the EVENTS
 ---
+
+# the EVENTS
 
 ## 1964 - 1965 
 ### Free Speech Movement, Berkeley and Yale students protest the Vietnam War
@@ -20,14 +23,22 @@ Woodstock was a folk and rock music festival held on a farm in Bethel, New York.
 
 ![Woodstock 1969 Attendees](https://www.history.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTYzMTI5OTg0MDU4MTQwNDMz/the-crowd.webp)
 
-<p class="description">The crowd of attendees swarmed near the stage, camping out amongst the loudspeakers and mud.</p>
+<p class="description"><i>The crowd of attendees swarmed near the stage, camping out amongst the loudspeakers and mud. (image credit: Nancy Einstein)</i></p>
 
-Woodstock was a huge festival—too huge for its own good. 300,000 attendees piled in to the fair in the rural lands of Bethel, New York. The New York Times described it as a "Sea of Mud". Despite the rough conditions, like guests “standing ankle-deep in mud,” “the potential threat of a virus cold or pneumonia epidemic,” or the inability of the festival to feed all the attendees, many enjoyed the festival through the weather and crowds, staying true to the “Peace and Music” theme. Laws prohibiting drugs were rarely enforced due to the sheer size of the event, though some needed medical help due to using mislabeled LSD that was often other drugs, such as tranquilizers.
+Woodstock was a huge festival—too huge for its own good. 300,000 attendees piled in to the fair in the rural lands of Bethel, New York. The New York Times described it as a "Sea of Mud". Despite the rough conditions, like guests “standing ankle-deep in mud,” “the potential threat of a virus cold or pneumonia epidemic,” or the inability of the festival to feed all the attendees, many enjoyed the festival through the weather and crowds, staying true to the “Peace and Music” theme. Laws prohibiting drugs were rarely enforced due to the sheer size of the event, though some needed medical help due to using mislabeled LSD that was often other drugs, such as tranquilizers or DOM.
+
+![Woodstock 1969 NYT Headline](../assets/image/woodstock-headline.png)
+
+<p class="description"><i>A New York Times article describing the harsh conditions of the festival. Full article available <a href="http://woodstockpreservation.org/Gallery/NYT-PDF/9_300000CampInSeaOfMud.pdf">here</a>.</i></p>
 
 ## NOVEMBER 13, 1969 
 ### March Against Death
 
 Taking place in Washington, D.C., the March Against Death was one of the largest protests in history yet. It was an anti-war protest denouncing the wrongful deaths of soldiers and citizens in Vietnam. This march gathered a lot of attention and had a lasting effect since it was a peaceful, but direct, way of confronting the government about their dissent to the war.
+
+![March Against Death 1969](https://donnamarie93.files.wordpress.com/2016/11/counterculture3.jpg)
+
+<p class="description"><i>Protestors took signs and chants to Capitol Hill for the historic march. (image credit: AP Photo)</i></p>
 
 ## MAY 4, 1970 
 ### Kent State University Protests

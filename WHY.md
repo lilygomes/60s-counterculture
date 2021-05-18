@@ -1,7 +1,10 @@
 ---
 layout: page
+sort: 3
 title: the WHY
 ---
+
+# the WHY
 
 ## Goals of the Movement
 
