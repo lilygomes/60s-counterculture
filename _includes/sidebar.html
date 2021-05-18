@@ -26,7 +26,7 @@
       {% for node in sorted_pages %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-					<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}{% if page.url == node.url %} &rsaquo;{% endif %}</a>
+					<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/60s-counterculture{{ node.url }}">{{ node.title }}{% if page.url == node.url %} &rsaquo;{% endif %}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
