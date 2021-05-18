@@ -45,6 +45,10 @@ html {
   }
 }
 
+/*
+ * External fonts
+ */
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 
 /*
  * Sidebar
@@ -79,8 +83,17 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  margin-left: -11px;
+  /*font-family: "Abril Fatface", serif;*/
+  font-family: "Prata", serif;
   font-size: 3.25rem;
+}
+
+.sidebar-about p {
+	margin-left: 0;
+	margin-top: 24px;
+	font-family: "Prata", serif;
+	font-size: 14pt;
 }
 
 /* Sidebar nav */
@@ -141,6 +154,22 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/*
+ * Rotated text
+ */
+.vertical {
+    writing-mode:tb-rl;
+	/*
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform: rotate(90deg);
+	*/
+    white-space:nowrap;
+    display:block;
+    bottom:0;
+}
 
 /*
  * Reverse layout
