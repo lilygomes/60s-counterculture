@@ -20,6 +20,15 @@ The Free Speech movement marked the beginning of the counterculture movement; it
 
 The Summer of Love describes a culmination of youth culture and the convergence of hippies in cities that took place in the summer of 1967. The counterculture began to gather attention, and anti-war protests began to get wider media coverage. Many young people met that summer—mostly in San Francisco—to celebrate music, use drugs, and protest political issues.
 
+## FEBRUARY 11, 1969
+### Salve Regina College Hunger Strikes
+
+At Salve Regina College, students increasingly petitioned for the right to self-govern and protest modern issues like the Vietnam War. Increasing calls for change started in 1969 and continued through 1973; the student body of Salve Regina was one of the many groups of students that was outraged by the Kent State Shootings of 1970, and an influx of new students began to fight for their right to protest. This announcement about the student’s method of protest at Salve Regina is a great example of the means and reasons for student dissent. It describes that the Student Council was organizing a “hunger strike and a peaceful march” protesting the role of student government. This event is just one out of many, but it is representative of the young generation’s rejection of control and their attempt to strive for change in a peaceful way.
+
+![Salve Regina Hunger Strike Press Release](../assets/image/hunger-strike.png)
+
+<p class="description"> A press release detailing the strike, written as it was ongoing. The full document is available <a href="https://www.jstor.org/stable/community.28761276?seq=1">here</a>.</p>
+
 ## AUGUST 15 - AUGUST 18, 1969 
 ### Woodstock Festival
 
