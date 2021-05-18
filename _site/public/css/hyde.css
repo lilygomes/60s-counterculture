@@ -117,7 +117,8 @@ a.sidebar-nav-item:focus {
  */
 .description {
 	font-size: 80%;
-	font-weight: lighter;
+	font-weight: 100;
+	color: #909090;
 }
 
 #copyright {
@@ -206,7 +207,21 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/**
+ * Home page
+ */
 
+#front-title {
+	margin-bottom: 0;
+	font-family: "Prata", serif;
+	font-size: 48pt;
+}
+
+#front-subtitle {
+	margin-top: 0;
+	font-family: "Prata", serif;
+	font-weight: normal;
+}
 
 /*
  * Themes
