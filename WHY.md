@@ -16,7 +16,7 @@ Hippies opposed warfare, protesting against the nation’s involvement in the Vi
 
 ![Black Armband Protest](https://api.time.com/wp-content/uploads/2018/02/gettyimages-515103084.jpg?w=800&quality=85)
 
-<p class="description"> In 1968, John and Mary Beth Tinker make history by protesting the violence of the Vietnam War in school with their black armbands. </p>
+<p class="description"> In 1968, John and Mary Beth Tinker make history by protesting the violence of the Vietnam War in school with their black armbands. (image credit: Bettmann Archive)</p>
 
 ## Mind Over Matter
 
