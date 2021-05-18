@@ -183,6 +183,10 @@ a.sidebar-nav-item:focus {
     bottom:0;
 }
 
+.vertical:hover {
+	text-decoration: none;
+}
+
 /*
  * Reverse layout
  *
